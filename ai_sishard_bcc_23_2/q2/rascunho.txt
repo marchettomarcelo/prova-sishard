@@ -1,0 +1,15 @@
+
+
+fun2 (short edi, long rsi){
+    edi = 100 * edi     2000
+    eax = rsi * 5      50
+
+    edi = edi - eax 
+
+    edi += 1
+
+    if edi == 1951
+}
+
+20, 10
+
